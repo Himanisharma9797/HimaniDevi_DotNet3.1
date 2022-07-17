@@ -1,0 +1,13 @@
+C:\Users\himani.devi\source\repos\BillingService\Billing.Service.API\bin\Debug\netcoreapp3.1\Billing.Service.API.deps.json
+C:\Users\himani.devi\source\repos\BillingService\Billing.Service.API\bin\Debug\netcoreapp3.1\Billing.Service.API.runtimeconfig.json
+C:\Users\himani.devi\source\repos\BillingService\Billing.Service.API\bin\Debug\netcoreapp3.1\Billing.Service.API.runtimeconfig.dev.json
+C:\Users\himani.devi\source\repos\BillingService\Billing.Service.API\bin\Debug\netcoreapp3.1\Billing.Service.API.dll
+C:\Users\himani.devi\source\repos\BillingService\Billing.Service.API\bin\Debug\netcoreapp3.1\Billing.Service.API.pdb
+C:\Users\himani.devi\source\repos\BillingService\Billing.Service.API\obj\Debug\netcoreapp3.1\Billing.Service.API.csproj.AssemblyReference.cache
+C:\Users\himani.devi\source\repos\BillingService\Billing.Service.API\obj\Debug\netcoreapp3.1\Billing.Service.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\himani.devi\source\repos\BillingService\Billing.Service.API\obj\Debug\netcoreapp3.1\Billing.Service.API.AssemblyInfoInputs.cache
+C:\Users\himani.devi\source\repos\BillingService\Billing.Service.API\obj\Debug\netcoreapp3.1\Billing.Service.API.AssemblyInfo.cs
+C:\Users\himani.devi\source\repos\BillingService\Billing.Service.API\obj\Debug\netcoreapp3.1\Billing.Service.API.csproj.CoreCompileInputs.cache
+C:\Users\himani.devi\source\repos\BillingService\Billing.Service.API\obj\Debug\netcoreapp3.1\Billing.Service.API.dll
+C:\Users\himani.devi\source\repos\BillingService\Billing.Service.API\obj\Debug\netcoreapp3.1\Billing.Service.API.pdb
+C:\Users\himani.devi\source\repos\BillingService\Billing.Service.API\obj\Debug\netcoreapp3.1\Billing.Service.API.genruntimeconfig.cache
